@@ -1,0 +1,14 @@
+/home/deck/RiderProjects/LockingChest/LockingChest/bin/Debug/net10.0/LockingChest
+/home/deck/RiderProjects/LockingChest/LockingChest/bin/Debug/net10.0/LockingChest.deps.json
+/home/deck/RiderProjects/LockingChest/LockingChest/bin/Debug/net10.0/LockingChest.runtimeconfig.json
+/home/deck/RiderProjects/LockingChest/LockingChest/bin/Debug/net10.0/LockingChest.dll
+/home/deck/RiderProjects/LockingChest/LockingChest/bin/Debug/net10.0/LockingChest.pdb
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/LockingChest.GeneratedMSBuildEditorConfig.editorconfig
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/LockingChest.AssemblyInfoInputs.cache
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/LockingChest.AssemblyInfo.cs
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/LockingChest.csproj.CoreCompileInputs.cache
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/LockingChest.dll
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/refint/LockingChest.dll
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/LockingChest.pdb
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/LockingChest.genruntimeconfig.cache
+/home/deck/RiderProjects/LockingChest/LockingChest/obj/Debug/net10.0/ref/LockingChest.dll
